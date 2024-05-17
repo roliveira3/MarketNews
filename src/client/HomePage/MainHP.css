@@ -1,0 +1,197 @@
+body h1,
+body h2 {
+  white-space: nowrap;
+  margin-bottom: 0;
+}
+
+@keyframes slideaway {
+  from { transform: translateY(0px); opacity: 1;}
+  to { transform: translateY(40px); opacity: 0;}
+}
+
+nav {
+  border-bottom: 1px solid var(--border-color);
+  height: 100px;
+}
+.infoimg{
+  height: 2rem;
+  /*make transformation smoother*/
+  transition: transform 0.2s ease-in-out;
+}
+.infoimg:hover{
+  transform: translateY(-5px);
+}
+
+[data-tooltip].infobutton::before {
+  /*make this not overflow, rather the text should come around to a new line the text is to long for 40vh*/
+  font-size: 0.6rem;
+  width: 18rem;
+  overflow-wrap: break-word;
+  
+  white-space: normal;
+}
+
+body main.mainHP {
+  max-height: calc(100vh - 100px);
+  overflow-y: auto;
+
+  padding-left: 4em !important;
+  padding-right: 4em !important;
+}
+
+table{
+  border-collapse: separate;
+  border-spacing: 0 2em;
+}
+
+table thead th {
+  position: sticky;
+  top: 0px; 
+  background: white;
+  z-index: 1; 
+  &:first-child{
+    min-width: 150px;
+  }
+ 
+  &:last-child{
+    
+    width: 300px;
+
+  }
+}
+
+th>div{
+  display: inline-block;
+  padding-left: 0.75em;
+  padding-right: 0.75em;
+  padding-top: 0.25em;
+  padding-bottom: 0.25em;
+  border-radius: 15px;
+  color: var(--primary-text-color);
+  cursor: pointer;
+  white-space: nowrap;
+  &.asc {
+    color: rgba(66, 96, 242);
+    background-color: rgba(241, 246, 254);
+  }
+  &.desc {
+    color: rgba(66, 96, 242);
+    background-color: rgba(241, 246, 254);
+  }
+  &:hover:not(.asc):not(.desc){
+    background-color: var(--row-hover-color);
+  }
+  &:not(:hover)>.fa-sort{
+    visibility: hidden;
+   
+  }
+}
+
+table tbody tr td{
+  border-top : 1px solid var(--row-border-color) !important;
+  border-bottom : 1px solid var(--row-border-color) !important;
+  padding-top: 0em;
+  padding-bottom: 0em;
+  cursor: pointer;
+}
+
+table tbody tr td:first-child{
+  border-left: 1px solid var(--row-border-color) !important;
+  border-top-left-radius: var(--row-border-radius);
+  border-bottom-left-radius: var(--row-border-radius);
+  color: var(--primary-text-color);
+  font-size: large;
+}
+
+table tbody tr td:last-child{
+  border-right: 1px solid var(--row-border-color) !important;
+ 
+  border-top-right-radius: var(--row-border-radius);
+  border-bottom-right-radius: var(--row-border-radius);
+
+}
+
+table tbody tr{
+  transition: transform 0.2s ease-in-out;
+  background-color: white;
+}
+
+table tbody tr:hover {
+    transform:  translateY(-10px);
+    background-color: var(--row-hover-color) !important;
+}
+
+.positive{
+  color: rgb(0, 175, 0);
+  font-weight: bold;
+}
+.negative{
+  color: red;
+  font-weight: bold;
+}
+
+.neutral{
+  color: grey;
+  font-weight: bold;
+}
+.currency{
+  color: var(--primary-text-color);
+}
+
+/* Define media queries for different screen widths */
+@media screen and (max-width: 1300px) {
+  /* Hide the second column when the screen width is 600px or less */
+  table tbody tr td:nth-child(5){
+    display: none;
+  }
+  table thead tr th:nth-child(5){
+    display: none;
+  }
+}
+  /* Define media queries for different screen widths 
+  with it getting smaller and smaller, less is explained*/
+@media screen and (max-width: 1130px) {
+  table tbody tr td:nth-child(7){
+    display: none;
+  }
+  table thead tr th:nth-child(7){
+    display: none;
+  }
+  table tbody tr td:nth-child(6){
+    border-right: 1px solid var(--row-border-color) !important;
+    border-top-right-radius: var(--row-border-radius);
+    border-bottom-right-radius: var(--row-border-radius);
+  }
+
+  table tbody tr td{
+    padding-top: 3em;
+    padding-bottom: 3em;
+    cursor: pointer;
+  }
+}
+@media screen and (max-width: 800px) {
+  table tbody tr td:nth-child(2){
+    display: none;
+  }
+  table thead tr th:nth-child(2){
+    display: none;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  table tbody tr td:nth-child(4){
+    display: none;
+  }
+  table thead tr th:nth-child(4){
+    display: none;
+  }
+}
+
+
+
+
+
+
+
+
+

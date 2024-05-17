@@ -1,0 +1,902 @@
+{
+    "META": {
+        "lastUpdate": 1703286198862,
+        "topNews": [
+            {
+                "datetime": 1703268069,
+                "headline": "Meta Platforms Inc Chief Legal Officer Jennifer Newstead Sells Company Shares",
+                "summary": "On December 19, 2023, Jennifer Newstead, Chief Legal Officer of Meta Platforms Inc (NASDAQ:META), sold 566 shares of the company.",
+                "image": "https://s.yimg.com/ny/api/res/1.2/USCMk1MHt_9pkYdWh13G6w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD0xMjAw/https://media.zenfs.com/en/us.finance.gurufocus/24354a59f01e7e503395f915eb7f0ff2",
+                "source": "Yahoo",
+                "url": "https://finnhub.io/api/news?id=ceeb93905a3101328bac74c0633a344221d921a4848054548136f24b033667f5"
+            },
+            {
+                "datetime": 1703264882,
+                "headline": "Facebook's New Privacy Feature Faces Backlash Over Potential Abuse Risks",
+                "summary": "Meta Platforms Inc (NASDAQ: META) recently began implementing encryption for Facebook direct messages, a move that has been controversial within the company. This encryption, also planned for Instagram, was announced in 2019 as part of a push for enhanced user privacy. However, Meta employees, including David Erb, an engineering director in 2018, have raised concerns that such encryption could hinder the detection and reporting of child sexual abuse on the platform, the Wall Street Journal repor",
+                "image": "https://media.zenfs.com/en/Benzinga/cdac0c89647287a4ddea345bb43c4a30",
+                "source": "Yahoo",
+                "url": "https://finnhub.io/api/news?id=528bde82c595b4f93bf550749f3d44d9bde56ff6b73c137066c528f7fe0d9b66"
+            },
+            {
+                "datetime": 1703261377,
+                "headline": "Facebook's Meta fined for breaches of Italian gambling ads ban",
+                "summary": "Meta Platforms, the parent company of Facebook, has become the latest tech company to be fined in Italy for breaches of a ban on the advertising of gambling.  Meta has been fined 5.85 million euros ($6.45 million) in connection with profiles and accounts on Facebook and Instagram, as well as sponsored content which promoted either betting or games with cash prizes, communications watchdog AGCOM said in a statement on Friday.  There was no immediate comment from Meta.",
+                "image": "https://media.zenfs.com/en/reuters-finance.com/28ae2afacb1146f812becaec0a8185ef",
+                "source": "Yahoo",
+                "url": "https://finnhub.io/api/news?id=5af669bd386d17314eb3c0819480c287d2f6bc9770c40e685ef1822a917d9676"
+            },
+            {
+                "datetime": 1703253610,
+                "headline": "Investors Heavily Search Meta Platforms, Inc. (META): Here is What You Need to Know",
+                "summary": "Zacks.com users have recently been watching Meta Platforms (META) quite a bit. Thus, it is worth knowing the facts that could determine the stock's prospects.",
+                "image": "https://media.zenfs.com/en/zacks.com/39dfb058875b6e691de9136bc97a47b4",
+                "source": "Yahoo",
+                "url": "https://finnhub.io/api/news?id=9535044c6744c6eee55d3bc2f0bb8574bd7c44ff405409089b76b7b06e1445aa"
+            },
+            {
+                "datetime": 1703244808,
+                "headline": "Meta is one step closer to following in Airbnb’s footsteps as $954 million Italian tax case heads to EU judgment",
+                "summary": "Italy's case against Meta has been escalated to the European Commission, and could see the platform fork out unpaid taxes to the bloc's 26 other nations.",
+                "image": "https://s.yimg.com/ny/api/res/1.2/iuwNhnP2RejvBZHzSpGtiA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTk-/https://media.zenfs.com/en/fortune_175/500f7902ce1d0b4b5750f7a7c454b8a6",
+                "source": "Yahoo",
+                "url": "https://finnhub.io/api/news?id=4a72bde8aeeda276b90e71a25f3cc215b23964bb8626770a1e6aaf16c8ef3c40"
+            }
+        ]
+    },
+    "AMZN": {
+        "lastUpdate": 1703286198970,
+        "topNews": [
+            {
+                "datetime": 1703266935,
+                "headline": "FedEx Stock Falls 11%: What's Next?",
+                "summary": "FedEx missed estimates on both the top and bottom lines, marking the seventh consecutive revenue miss. Read more on FedEx's earnings.",
+                "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1155466406/image_1155466406.jpg?io=getty-c-w1536",
+                "source": "SeekingAlpha",
+                "url": "https://finnhub.io/api/news?id=687d050dc2b883bf1107524856a200a0b3dfd9874046e36b96dde429cbd18f85"
+            },
+            {
+                "datetime": 1703263697,
+                "headline": "Google Cloud exec: Enterprise AI is game-changing, but companies need to prepare their data",
+                "summary": "Enterprise AI is entering a multi-modal world, says Google Cloud's Global GM of AI Go To Market.",
+                "image": "https://s.yimg.com/ny/api/res/1.2/iYmYJreAT0vbLNDgiXaOBQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTI-/https://s.yimg.com/os/creatr-uploaded-images/2023-12/adde5c50-a0e5-11ee-bf7f-6875e02787eb",
+                "source": "Yahoo",
+                "url": "https://finnhub.io/api/news?id=56e8d52cb85cf509416bb633d28963806d33b673d8cb24dc07175379aa63d460"
+            },
+            {
+                "datetime": 1703261184,
+                "headline": "Why Amazon Will Come Out Ahead In The Generative AI Race",
+                "summary": "Amazon is poised to lead the generative AI race with its cloud infrastructure, AI models, and strategic alliances, surpassing Google and Microsoft.",
+                "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1660821856/image_1660821856.jpg?io=getty-c-w1536",
+                "source": "SeekingAlpha",
+                "url": "https://finnhub.io/api/news?id=9abfb9c9b2220144da74f696534b45c77731aa10be3fc3411179a8d671120a65"
+            },
+            {
+                "datetime": 1703257207,
+                "headline": "Here's Why Amazon (AMZN) is a Strong Momentum Stock",
+                "summary": "The Zacks Style Scores offers investors a way to easily find top-rated stocks based on their investing style. Here's why you should take advantage.",
+                "image": "https://media.zenfs.com/en/zacks.com/03fca48475577988aa4e0db94f484b4e",
+                "source": "Yahoo",
+                "url": "https://finnhub.io/api/news?id=e18cbedffbed817f4023ca9333f1ca027d37b5508e4eabf76e3e855818636090"
+            },
+            {
+                "datetime": 1703257200,
+                "headline": "Amazon on cusp of overtaking Walmart as world’s biggest retailer",
+                "summary": "Amazon is on the cusp of surpassing Walmart as the world’s biggest retailer, with the online giant’s revenues potentially overtaking its longtime rival over Christmas.",
+                "image": "https://s.yimg.com/ny/api/res/1.2/C4uS2uzfHUYgxoOgF3OhhA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NTA-/https://media.zenfs.com/en/the_telegraph_818/a7455b9417ff2a45cb29a5b0c67005f8",
+                "source": "Yahoo",
+                "url": "https://finnhub.io/api/news?id=0d109e3f6cf59083c6228ec0638539ef5b1efdd870c783616843a5abb870246f"
+            }
+        ]
+    },
+    "AAPL": {
+        "lastUpdate": 1703286198918,
+        "topNews": [
+            {
+                "datetime": 1703262060,
+                "headline": "The Fight Over Apple’s iMessage and Those Green Bubbles",
+                "summary": "Apple has worked to block the Beeper Android app for users, but it plans to adopt a more Android-friendly texting standard alongside iMessage.",
+                "image": "https://media.zenfs.com/en/wsj.com/be3b2364d5438f282606b256eb70b0d8",
+                "source": "Yahoo",
+                "url": "https://finnhub.io/api/news?id=3428028d355a52c588ed60e54f8e13ab3d048b0889e6164c93fdec8e50b40acb"
+            },
+            {
+                "datetime": 1703257440,
+                "headline": "Apple's (AAPL) Streaming Service Rides on Strong Content",
+                "summary": "Apple's (AAPL) streaming service, Apple TV+, is benefiting from a robust content portfolio that is driving consumption and viewership.",
+                "image": "https://media.zenfs.com/en/zacks.com/9c2d59e61c051e05ce1cae6d0db95ab5",
+                "source": "Yahoo",
+                "url": "https://finnhub.io/api/news?id=99b1944466dd3cc6aa98bca9aacf10d79ca4d7c8318e700de04d08ae49ea7371"
+            },
+            {
+                "datetime": 1703256314,
+                "headline": "Microsoft Makes Historic AI Deal — But Not What You Might Expect",
+                "summary": "As MSFT stock remains in buy range, Microsoft and the AFL-CIO team up on the impact of AI on labor relations.",
+                "image": "https://media.zenfs.com/en/ibd.com/20652df20c52de0adf4e8d8464975e9d",
+                "source": "Yahoo",
+                "url": "https://finnhub.io/api/news?id=7920660cc126fa5aeb57665cf5804e463782eef7984e61243276938893e57f15"
+            },
+            {
+                "datetime": 1703249400,
+                "headline": "2 Reasons to Buy Apple Stock, and 1 Reason to Sell",
+                "summary": "This year, Apple topped the \"Magnificent Seven\" for most free cash flow.",
+                "image": "https://g.foolcdn.com/editorial/images/758880/person-with-airpods-in-ear-apple.jpg",
+                "source": "Yahoo",
+                "url": "https://finnhub.io/api/news?id=549042612fb0bc3925dda9def07aabd7cc921f71584721479059f69982876237"
+            },
+            {
+                "datetime": 1703244600,
+                "headline": "3 Dividend Stocks to Double Up On Right Now",
+                "summary": "These companies prioritize returning capital to shareholders.",
+                "image": "https://g.foolcdn.com/editorial/images/756365/a-person-texts-on-a-phone.jpg",
+                "source": "Yahoo",
+                "url": "https://finnhub.io/api/news?id=a99601f85b0af33166ad15b90eb000e70dea86fd1061e74186eb9d7874cf7963"
+            }
+        ]
+    },
+    "JPM": {
+        "lastUpdate": 1703286198787,
+        "topNews": [
+            {
+                "datetime": 1703255404,
+                "headline": "Why JPMorgan Chase & Co. (JPM) is a Top Stock for the Long-Term",
+                "summary": "Finding strong, market-beating stocks with a positive earnings outlook becomes easier with the Focus List, a top feature of the Zacks Premium portfolio service.",
+                "image": "https://media.zenfs.com/en/zacks.com/17a4db66bb13bdabcbf848550a6ea15a",
+                "source": "Yahoo",
+                "url": "https://finnhub.io/api/news?id=f7ef638bfa27e7be9be1bca150d28fc7c88017be5fb3dda75f5a795734401e4b"
+            },
+            {
+                "datetime": 1703253618,
+                "headline": "JPMorgan Chase & Co. (NYSE:JPM) is a favorite amongst institutional investors who own 72%",
+                "summary": "Key Insights Significantly high institutional ownership implies JPMorgan Chase's stock price is sensitive to their...",
+                "image": "https://media.zenfs.com/en/simply_wall_st__316/393a21695c25a8a00f631cfd22c3f87a",
+                "source": "Yahoo",
+                "url": "https://finnhub.io/api/news?id=c58871f641bc03e683fcd2da599e447fbec789b0607764c5b1c7445a4754067d"
+            },
+            {
+                "datetime": 1703244007,
+                "headline": "Is JPMorgan Diversified Return Emerging Markets Equity ETF (JPEM) a Strong ETF Right Now?",
+                "summary": "Smart Beta ETF report for JPEM",
+                "image": "https://media.zenfs.com/en/zacks.com/b369e357aa3d42cc28ac674490d4ae83",
+                "source": "Yahoo",
+                "url": "https://finnhub.io/api/news?id=9bd188fd028e26b50ace694b7ce4ccf045a7871147024c5b54ca8ad5b02d4959"
+            },
+            {
+                "datetime": 1703239221,
+                "headline": "Crypto had a surprisingly great year. It still faces threats in 2024.",
+                "summary": "The crypto world is predicting another boom in 2024 as the industry frees itself from problems of the past. But it also faces plenty of potential risks.",
+                "image": "https://s.yimg.com/ny/api/res/1.2/a1xYMDu1FkLxZvhnZxaPDQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-12/6c11e640-a034-11ee-bde5-f0c8139fede4",
+                "source": "Yahoo",
+                "url": "https://finnhub.io/api/news?id=2401489c7ba2db2d7959d4a6187b171e002d4a636c6b4cff93fb98f88d8e2c6d"
+            },
+            {
+                "datetime": 1703229298,
+                "headline": "Actively Managed ETFs: Growing At The Expense Of Mutual Funds And Passive ETFs",
+                "summary": "Interest in actively managed ETFs has largely shifted from being centered on bond markets to equities. Click here to read more.",
+                "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1470034194/image_1470034194.jpg?io=getty-c-w1536",
+                "source": "SeekingAlpha",
+                "url": "https://finnhub.io/api/news?id=11be68fa4859ef118ba08d5c899785203bc82153d81cf4ce664a7f7db0ee0168"
+            }
+        ]
+    },
+    "KO": {
+        "lastUpdate": 1703286199035,
+        "topNews": [
+            {
+                "datetime": 1703253360,
+                "headline": "3 Standout Dow Stocks That Could Soar in 2024",
+                "summary": "Based on healthy fundamentals, we have shortlisted three Dow stocks - PG, KO and IBM - that are likely to perform better in 2024.",
+                "image": "https://media.zenfs.com/en/zacks.com/560ce7090345bb7408c706b8e0a8c3fc",
+                "source": "Yahoo",
+                "url": "https://finnhub.io/api/news?id=ac55e355c70ad1f125d90a1aa5850c274f830f94e686b111a665e1f1027feb54"
+            },
+            {
+                "datetime": 1703249100,
+                "headline": "Is Coca-Cola Stock a Buy Now?",
+                "summary": "It has huge market share in its space. That's both good and bad news.",
+                "image": "https://g.foolcdn.com/editorial/images/756954/people-drinking-cola-with-straws.jpg",
+                "source": "Yahoo",
+                "url": "https://finnhub.io/api/news?id=3208a8f543138d6482ecfc6f6ca21ef735731c0323c97bd712e671ad00286d55"
+            },
+            {
+                "datetime": 1703246446,
+                "headline": "Why The Coca-Cola Company (NYSE:KO) Looks Like A Quality Company",
+                "summary": "While some investors are already well versed in financial metrics (hat tip), this article is for those who would like...",
+                "image": "https://media.zenfs.com/en/simply_wall_st__316/428ff0392b741dffbf57fc52bfe38609",
+                "source": "Yahoo",
+                "url": "https://finnhub.io/api/news?id=57419f21a64e1b28fb1ad082b60bf2a9f93ee868be99e9d05fda1fc5650e0ed5"
+            },
+            {
+                "datetime": 1703244962,
+                "headline": "For Those Investors Stuck On Yield, 2023 Was Opportunistic",
+                "summary": "Discover the power of active stock picking and contrarian investing in today's volatile market. Click here to read what investors need to know.",
+                "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1475043801/image_1475043801.jpg?io=getty-c-w1536",
+                "source": "SeekingAlpha",
+                "url": "https://finnhub.io/api/news?id=29c1901eb87f8730a171b01130fc29442a084d198021c8e1ff8b150f3543b7c1"
+            },
+            {
+                "datetime": 1703235619,
+                "headline": "29 Undervalued Dividend Aristocrats: December 2023",
+                "summary": "The S&P 500 Dividend Aristocrats Index contains 67 dividend growth stocks called the Dividend Aristocrats. Click here to read more.",
+                "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1310097441/image_1310097441.jpg?io=getty-c-w1536",
+                "source": "SeekingAlpha",
+                "url": "https://finnhub.io/api/news?id=b3866978f1d000653fd3eb0b2516c1adb4ca6bed9990159067dd08bc7e551386"
+            }
+        ]
+    },
+    "TSLA": {
+        "lastUpdate": 1703286198890,
+        "topNews": [
+            {
+                "datetime": 1703282733,
+                "headline": "Dow Jones Futures: Market Won't Back Down; Two Magnificent Seven Stocks Forge New Buy Points",
+                "summary": "The market rally won't back down, but a break would be nice. Magnificent seven stocks Nvidia and Tesla have new buy points.",
+                "image": "https://media.zenfs.com/en/ibd.com/9b40cdd0f82838a264d70c4e2aba9f7c",
+                "source": "Yahoo",
+                "url": "https://finnhub.io/api/news?id=6fc72dac9209fe31c2b415172ca4cf32f5e331d92944b0f88a63cb907bc91cd7"
+            },
+            {
+                "datetime": 1703279604,
+                "headline": "Best EV Stock to Buy in 2024: Tesla Stock vs. Nio Stock",
+                "summary": "The EV industry might get a gift from central bankers in the form of interest rate cuts in 2024.",
+                "image": "https://g.foolcdn.com/editorial/images/759232/auto-mechanic-industry-building.jpg",
+                "source": "Yahoo",
+                "url": "https://finnhub.io/api/news?id=73a7080bcc98c2560d774ce10969665d763852677cf3551c23bf9a05c456b8ad"
+            },
+            {
+                "datetime": 1703274050,
+                "headline": "German property prices plummet as housing bubble bursts",
+                "summary": "House prices in Germany dropped by a record 10.2pc in the third quarter in a further sign of the struggles faced by Europe’s largest economy since the pandemic.",
+                "image": "https://www.telegraph.co.uk/content/dam/business/2023/12/22/TELEMMGLPICT000359882869_17032327645840_trans_NvBQzQNjv4BqUgehH7knIs2mL4LO-crfgme2OVKX6TUYKcvkQ3tfORY.jpeg?impolicy=logo-overlay",
+                "source": "Yahoo",
+                "url": "https://finnhub.io/api/news?id=e11b45f11b1be622358225a617c2e0811ce7db92a807d846a896956cf34d2073"
+            },
+            {
+                "datetime": 1703273460,
+                "headline": "We Need a New Word for Tesla’s ‘Recalls’",
+                "summary": "On first glance, Tesla appears to have a recall problem.  In the U.S., Tesla has recalled some 6.7 million cars over the past two years, accounting for roughly 14% of all recalls.  More than 90% of Tesla recalls are handled with over-the-air software updates that don’t require a visit to a dealer.",
+                "image": "https://s.yimg.com/ny/api/res/1.2/m7hxx_2Tkxm6WCNKOH5I7A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MDA-/https://media.zenfs.com/en/Barrons.com/c1528b8c99e2ed78e8ebbc65b71d3a9a",
+                "source": "Yahoo",
+                "url": "https://finnhub.io/api/news?id=b2023101d7f0f17863aabc2998202747512ff8678e1d59da705ca61eca14c9e3"
+            },
+            {
+                "datetime": 1703272860,
+                "headline": "3 Things We Learned From Elon Musk and Cathie Wood’s Conversation on X",
+                "summary": "Cathie Wood and Tesla CEO Elon Musk sat down for a conversation that was more philosophical than practical.  During the conversation, Musk and Wood touched on the bad timing of Tesla’s addition to the  The shares were added on Dec. 21, 2020, when the company’s market capitalization was some $700 billion, up almost ninefold in the 12 months preceding the addition.",
+                "image": "https://s.yimg.com/ny/api/res/1.2/hv58_JNOir1DuHro5SCBxw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MDA-/https://media.zenfs.com/en/Barrons.com/ce4c502bf1e102e583f5f95eaebbf2f1",
+                "source": "Yahoo",
+                "url": "https://finnhub.io/api/news?id=616f81dfef58614591ba727e75d699fd9de39234624bd02d2a24e2813cf06d14"
+            }
+        ]
+    },
+    "CSCO": {
+        "lastUpdate": 1703286199262,
+        "topNews": [
+            {
+                "datetime": 1703253097,
+                "headline": "14 Cheap DRIP Stocks To Buy Now",
+                "summary": "In this article, we discuss 14 cheap DRIP stocks to buy now. You can skip our detailed analysis of dividend reinvestment plans and performance of dividend stocks in the past, and go directly to read 5 Cheap DRIP Stocks To Buy Now. Investing in dividend stocks is often seen as a game for patient investors […]",
+                "image": "https://media.zenfs.com/en/insidermonkey.com/3e2998b6f10afcbdeff233440f80e8eb",
+                "source": "Yahoo",
+                "url": "https://finnhub.io/api/news?id=fac0a9e863d270a5add62e0e76ac9d1fc7156a1aa0084de3fe3aec7166bd6c23"
+            },
+            {
+                "datetime": 1703251800,
+                "headline": "Cisco’s Green Team Network: How to Be More Sustainable During the Holidays",
+                "summary": "By Jaemi Mansfield NORTHAMPTON, MA / ACCESSWIRE / December 22, 2023 / Cisco Systems Inc. ‘Tis the season! As we look forward to numerous holidays, special traditions, and spending time with loved ones, I can't help but think about the impact of my ...",
+                "image": "https://media.zenfs.com/en/accesswire.ca/27feafa39e002c217b47b24dea0dcb23",
+                "source": "Yahoo",
+                "url": "https://finnhub.io/api/news?id=a5643c0b264950544c3cf2e7a0db6bca99a852821aef73e41053e2f49b07c0f1"
+            },
+            {
+                "datetime": 1703242800,
+                "headline": "PDD and Cisco have been highlighted as Zacks Bull and Bear of the Day",
+                "summary": "PDD and Cisco have been highlighted as Zacks Bull and Bear of the Day.",
+                "image": "https://media.zenfs.com/en/zacks.com/19e025edc67d0231b408370725a10f26",
+                "source": "Yahoo",
+                "url": "https://finnhub.io/api/news?id=aaa2b663d95781c336ae0cd1963a1dbe485a54a5e6cdba9397703921798ca419"
+            },
+            {
+                "datetime": 1703239348,
+                "headline": "CIBR ETF: Opportunities In The Rapidly Evolving Cybersecurity Landscape",
+                "summary": "NASDAQ Cybersecurity ETF (CIBR) has appreciated by over 39% in a market growing at a CAGR of 13.8%. Click here to read more.",
+                "image": "https://media.gettyimages.com/id/1489431302/photo/group-of-three-young-indian-software-engineers-use-computer-to-discuss-a-technological.jpg?b=1&s=170667a&w=0&k=20&c=klHOdsJbg9WdYrpKknCHA7SzlwlE_qDKym0GSRuci7A=",
+                "source": "SeekingAlpha",
+                "url": "https://finnhub.io/api/news?id=1a221d697b4c9bc4999be7c5b06b7f0c683584f5bf0224afd1f337fbe5a7c24d"
+            },
+            {
+                "datetime": 1703235600,
+                "headline": "Bear of the Day: Cisco Systems (CSCO)",
+                "summary": "Cisco faces significant challenges that warrant investor caution. Slowing growth, a cutthroat competitive landscape, and a weak industry group make CSCO shares an avoid at this juncture.",
+                "image": "https://media.zenfs.com/en/zacks.com/a2aae5c27090ef0166920d87849ddafd",
+                "source": "Yahoo",
+                "url": "https://finnhub.io/api/news?id=be29a813591bc6c2628bc6142ae6c413161c3584ddc295b243c61bfa4e1097b1"
+            }
+        ]
+    },
+    "NVDA": {
+        "lastUpdate": 1703286198883,
+        "topNews": [
+            {
+                "datetime": 1703268869,
+                "headline": "Show Me The Money: Inside Ken Griffin's Citadel's Jaw-Dropping $7 Billion Return",
+                "summary": "Citadel Founder and CEO Ken Griffin is one of the most successful investors of all time, managing over $62 billion in assets. He is also the founder of Citadel Securities, the largest market-making firm for the New York Stock Exchange and one of the largest designated market makers in the world. Citadel Securities is involved in one out of four stock trades placed in U.S. exchanges and nearly 40% of all retail trades. With a net worth of $37.5 billion, Griffin is one of the richest hedge fund ma",
+                "image": "https://media.zenfs.com/en/Benzinga/390f95afc884e8ebbe3217420c5c4df7",
+                "source": "Yahoo",
+                "url": "https://finnhub.io/api/news?id=be7c77aaf80d6e68e9b93b8a3a3a7299e877c5917defefd68d09e10083fab64b"
+            },
+            {
+                "datetime": 1703267239,
+                "headline": "Elon Musk says ‘if you need encouragement to start a company, don’t do it’",
+                "summary": "The Tesla and SpaceX CEO also offered practical advice for entrepreneurs who are going to launch a startup no matter what.",
+                "image": "https://s.yimg.com/ny/api/res/1.2/FRBzzwporNSarQ0QiFJXnA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTk-/https://media.zenfs.com/en/fortune_175/e987255d0b8d14a3ff60ec7831e64372",
+                "source": "Yahoo",
+                "url": "https://finnhub.io/api/news?id=4d031469970d81823bb1a0c1698f478d9a88d95c3eaee94360157738719c9ec1"
+            },
+            {
+                "datetime": 1703265252,
+                "headline": "Top robotics names discuss humanoids, generative AI and more",
+                "summary": "Last month, I took an extended break. In a bid to keep my robotics newsletter Actuator (subscribe here) up and running, however, I reached out to some of the biggest names in the industry. I asked people from CMU, UC Berkeley, Meta, NVIDIA, Boston Dynamics and the Toyota Research Institute the same six questions, covering topics like generative AI, the humanoid form factor, home robots and more. You'll find all of the answers broken up by question below. You would be hard pressed to find a more",
+                "image": "https://techcrunch.com/wp-content/uploads/2023/11/GettyImages-496822526.jpg?resize=1200,800",
+                "source": "Yahoo",
+                "url": "https://finnhub.io/api/news?id=af5bb2cb824174cd0a47f50c2889aa24bf6626ea27ad47e4594cd3031d0746c9"
+            },
+            {
+                "datetime": 1703262660,
+                "headline": "Viasat (VSAT) Launches Data Plans for Small-Scale Enterprises",
+                "summary": "Viasat (VSAT) introduces high-speed Internet service plans to support rural businesses with robust broadband connectivity.",
+                "image": "https://media.zenfs.com/en/zacks.com/78e153946d108f11fb768ee550d36568",
+                "source": "Yahoo",
+                "url": "https://finnhub.io/api/news?id=33a31e7d0e5173162f6007782e3abfbec3cb97ffd09af41125d58ae589bd1a80"
+            },
+            {
+                "datetime": 1703256313,
+                "headline": "Dow Jones Rises On Key Inflation Data; Nike Stock Dives On Earnings",
+                "summary": "The Dow Jones Industrial Average rose Friday after key inflation data. Nike stock plunged 12% on weak revenue guidance.",
+                "image": "https://media.zenfs.com/en/ibd.com/09efcdf77db53839dab259fd3f5e17c6",
+                "source": "Yahoo",
+                "url": "https://finnhub.io/api/news?id=39df39ddae6d33ad22ba77b08cf899fa921fe4c9f1dd83c1ac136fc3fe9616d9"
+            }
+        ]
+    },
+    "WMT": {
+        "lastUpdate": 1703286198888,
+        "topNews": [
+            {
+                "datetime": 1703257200,
+                "headline": "Amazon on cusp of overtaking Walmart as world’s biggest retailer",
+                "summary": "Amazon is on the cusp of surpassing Walmart as the world’s biggest retailer, with the online giant’s revenues potentially overtaking its longtime rival over Christmas.",
+                "image": "https://s.yimg.com/ny/api/res/1.2/C4uS2uzfHUYgxoOgF3OhhA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NTA-/https://media.zenfs.com/en/the_telegraph_818/a7455b9417ff2a45cb29a5b0c67005f8",
+                "source": "Yahoo",
+                "url": "https://finnhub.io/api/news?id=0d109e3f6cf59083c6228ec0638539ef5b1efdd870c783616843a5abb870246f"
+            },
+            {
+                "datetime": 1703253872,
+                "headline": "Jim Cramer Stock Portfolio: 12 Recent Additions",
+                "summary": "In this article, we discuss the 12 recent additions to the Jim Cramer stock portfolio. If you want to read about some more Cramer stocks, go directly to Jim Cramer Stock Portfolio: 5 Recent Additions. Jim Cramer, the host of Mad Money on CNBC, is one of the most well-known finance personalities on television. He […]",
+                "image": "https://media.zenfs.com/en/insidermonkey.com/a6c6a869a7c2c92171425bdb9b9fb0f6",
+                "source": "Yahoo",
+                "url": "https://finnhub.io/api/news?id=fa49dcb5d16732e4fe25eacbaee6c3139d382e6d4c0cc1ae525109bf1aa0ed15"
+            },
+            {
+                "datetime": 1703252640,
+                "headline": "14 Most Profitable Large Cap Stocks to Buy",
+                "summary": "In this article, we will take a look at the 14 most profitable large cap stocks to buy. To skip our analysis of the recent trends, and market activity, you can go directly to see the 5 Most Profitable Large Cap Stocks to Buy. The profitability of companies of all sizes, including large-cap companies, was […]",
+                "image": "https://media.zenfs.com/en/insidermonkey.com/74b6cafcda84e56c6cf8dfea32afdb01",
+                "source": "Yahoo",
+                "url": "https://finnhub.io/api/news?id=bd4c675ab2427998057059e461fdddfec7c4fee3d8416351cb809ab645790b5c"
+            },
+            {
+                "datetime": 1703251260,
+                "headline": "Why shoppers should be wary of Kroger, Walmart, and Costco",
+                "summary": "Walmart, in at least some of its stores, sells sex toys.  To find this data Incogni painstakingly went through the privacy policy of each retailer and, in the case of their apps, looked at data from the Google Play store.",
+                "image": "https://s.yimg.com/ny/api/res/1.2/ZwiKOja82k4hEh3GN8L45g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/thestreet.com/b0976291fa2ace1afea83b2defe2bc11",
+                "source": "Yahoo",
+                "url": "https://finnhub.io/api/news?id=05f9a752fd3a552d7e3e778876641535c9eb316f8f216495d8204de60a40787f"
+            },
+            {
+                "datetime": 1703235619,
+                "headline": "29 Undervalued Dividend Aristocrats: December 2023",
+                "summary": "The S&P 500 Dividend Aristocrats Index contains 67 dividend growth stocks called the Dividend Aristocrats. Click here to read more.",
+                "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1310097441/image_1310097441.jpg?io=getty-c-w1536",
+                "source": "SeekingAlpha",
+                "url": "https://finnhub.io/api/news?id=b3866978f1d000653fd3eb0b2516c1adb4ca6bed9990159067dd08bc7e551386"
+            }
+        ]
+    },
+    "V": {
+        "lastUpdate": 1703286198856,
+        "topNews": [
+            {
+                "datetime": 1703240100,
+                "headline": "This Phenomenal Dividend Growth Stock Just Increased Its Payout 16%",
+                "summary": "And it could keep raising its dividend for years to come.",
+                "image": "https://g.foolcdn.com/editorial/images/758900/getty-images-investor-looks-at-a-financial-chart-on-a-laptop-1200x675-128554e.jpg",
+                "source": "Yahoo",
+                "url": "https://finnhub.io/api/news?id=424a303e59eb6eff4e92a0ddc8df9b789d7b2674e82ac95a71268194c477104d"
+            },
+            {
+                "datetime": 1703237988,
+                "headline": "Block: A Doubtful Turnaround Story",
+                "summary": "Block's share price has returned 60% over the past 3-month period alone, but this is hardly a sign of things to come. Read more about SQ stock here.",
+                "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1423628571/image_1423628571.jpg?io=getty-c-w1536",
+                "source": "SeekingAlpha",
+                "url": "https://finnhub.io/api/news?id=8977127671497737516b6c90c2b51539c6b3592f2e21b2cf98a9bb4021cefcce"
+            },
+            {
+                "datetime": 1703167200,
+                "headline": "RevoluGROUP and Skylink Global Forge Strategic Partnership: Uniting Fintech and Telecommunications for Enhanced Global Reach",
+                "summary": "VANCOUVER, British Columbia and MADRID, Spain, Dec. 21, 2023 (GLOBE NEWSWIRE) -- RevoluGROUP Canada Inc., (TSX-V: REVO), (Frankfurt: IJA2), (Munich: A2PU92), an innovative leader in the fintech industry, and Skylink Global S.L., a dynamic spin-off of Deutsche Telekom Global Carrier, join forces to offer a wide range of services to their customers, demonstrating the power of synergy between financial services and telecommunications. It also underlines both companies' commitment to create solution",
+                "image": "https://media.zenfs.com/en/globenewswire.com/57f9779ae54b50d57a2574ef8db37d31",
+                "source": "Yahoo",
+                "url": "https://finnhub.io/api/news?id=9a0bb91173b958288e732ce309fb578844f26a7fdfaafead287144bf657d129e"
+            },
+            {
+                "datetime": 1703142900,
+                "headline": "Warren Buffett's Wealth-Building Formula: Consider VIG Instead Of Berkshire Hathaway",
+                "summary": "We examine several Buffett quotes that encapsulate his wealth-building formula and look at why VIG could be a better option than Berkshire Hathaway.",
+                "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/492446672/image_492446672.jpg?io=getty-c-w1536",
+                "source": "SeekingAlpha",
+                "url": "https://finnhub.io/api/news?id=389eb04115e0537e9b9c548ec86dc51a4354b1500882e97622053f8355550136"
+            },
+            {
+                "datetime": 1703084940,
+                "headline": "Visa (V) to Unlock New Horizons for Intermex With New Alliance",
+                "summary": "The partnership with Intermex is expected to help Visa (V) with increased transaction volumes, boosting its global presence and consumer base.",
+                "image": "https://media.zenfs.com/en/zacks.com/578c75a0bdc2572dd0bbdad8c4aeb25c",
+                "source": "Yahoo",
+                "url": "https://finnhub.io/api/news?id=1c8347f4ff2686e33b793b72bf5d4e597ccbff132685491a090ab11b80ea8b3c"
+            }
+        ]
+    },
+    "JNJ": {
+        "lastUpdate": 1703286198777,
+        "topNews": [
+            {
+                "datetime": 1703253097,
+                "headline": "14 Cheap DRIP Stocks To Buy Now",
+                "summary": "In this article, we discuss 14 cheap DRIP stocks to buy now. You can skip our detailed analysis of dividend reinvestment plans and performance of dividend stocks in the past, and go directly to read 5 Cheap DRIP Stocks To Buy Now. Investing in dividend stocks is often seen as a game for patient investors […]",
+                "image": "https://media.zenfs.com/en/insidermonkey.com/3e2998b6f10afcbdeff233440f80e8eb",
+                "source": "Yahoo",
+                "url": "https://finnhub.io/api/news?id=fac0a9e863d270a5add62e0e76ac9d1fc7156a1aa0084de3fe3aec7166bd6c23"
+            },
+            {
+                "datetime": 1703235619,
+                "headline": "29 Undervalued Dividend Aristocrats: December 2023",
+                "summary": "The S&P 500 Dividend Aristocrats Index contains 67 dividend growth stocks called the Dividend Aristocrats. Click here to read more.",
+                "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1310097441/image_1310097441.jpg?io=getty-c-w1536",
+                "source": "SeekingAlpha",
+                "url": "https://finnhub.io/api/news?id=b3866978f1d000653fd3eb0b2516c1adb4ca6bed9990159067dd08bc7e551386"
+            },
+            {
+                "datetime": 1703194044,
+                "headline": "15 Stocks That Will Make You Rich in 5 Years According to ChatGPT",
+                "summary": "In this article, we will take a detailed look at the 15 Stocks That Will Make You Rich in 5 Years According to ChatGPT. For a quick overview of such stocks, read our article 5 Stocks That Will Make You Rich in 5 Years According to ChatGPT. All anyone in the Wall Street could talk about […]",
+                "image": "https://s.yimg.com/ny/api/res/1.2/mUumgV0S3zeJRdpddZ4Ymw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/insidermonkey.com/25b9cf64bdd8c5617210ec66cab60576",
+                "source": "Yahoo",
+                "url": "https://finnhub.io/api/news?id=00a860096e4e624718034ec594fac9bddac080885f0b061294eb874a7278e020"
+            },
+            {
+                "datetime": 1703180230,
+                "headline": "35 Best Countries For Raising Kids",
+                "summary": "In this article, we are going to discuss the 35 Best Countries For Raising Kids. You can skip our detailed analysis based on Reddit threads and go directly to 10 Best Countries For Raising Kids. When choosing the best place to raise kids, there are many factors to consider, such as the cost of living, education […]",
+                "image": "https://media.zenfs.com/en/insidermonkey.com/f8bd0ea027ce727ec85b5b15270d467b",
+                "source": "Yahoo",
+                "url": "https://finnhub.io/api/news?id=189cae9c43aa4e04142db0c1fad272c594b3e69f8224524fe18cd4c1a0e08b4b"
+            },
+            {
+                "datetime": 1703160420,
+                "headline": "J&J bets bigger on MeiraGTx’s eye gene therapy",
+                "summary": "Ahead of a Phase 3 readout that could come next year, the pharma is paying $130 million in upfront and near-term cash for rights to the retinitis pigmentosa treatment that it didn’t already own.",
+                "image": "https://www.biopharmadive.com/imgproxy/Ht25pBdDPQF4yKcRR_Ee8FwSyXzqh9kpbCMyP22qAWo/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTE3NDEzMDg1MTguanBn.jpg",
+                "source": "Yahoo",
+                "url": "https://finnhub.io/api/news?id=54ab677779451be73252c69b0962b3203149fbb1089e41e7f6007fb9c226422e"
+            }
+        ]
+    },
+    "NKE": {
+        "lastUpdate": 1703286198951,
+        "topNews": [
+            {
+                "datetime": 1703262840,
+                "headline": "Nike’s Poor Outlook Signals Big Problem for Sneakers and Consumers",
+                "summary": "Apparel maker Nike is seeing more caution from consumers, particularly in markets such as Europe and China.",
+                "image": "https://s.yimg.com/ny/api/res/1.2/bQ.7WQFTHES2ZdY17Ap92w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MDA-/https://media.zenfs.com/en/Barrons.com/313a08586313c6234e868d7debaf665f",
+                "source": "Yahoo",
+                "url": "https://finnhub.io/api/news?id=e88a87f0438ffd28f530712a4aaa29ccc7fbd17325e3ec367b6dee6bcf277af7"
+            },
+            {
+                "datetime": 1703261217,
+                "headline": "These Stocks Are Moving the Most Today",
+                "summary": "Nike slumps as the sneaker and apparel company sees sales softening in the second half of fiscal 2024, while Karuna Therapeutics soars on a deal to be acquired by Bristol Myers for about $14 billion.Read ...",
+                "image": "https://media.zenfs.com/en/Barrons.com/12ea0f43d8f8307249a68d1cb2e0587e",
+                "source": "Yahoo",
+                "url": "https://finnhub.io/api/news?id=bdca5f0cbad3cacc079b67969283af74bc98340cc42a13c724ba94d0e313e72b"
+            },
+            {
+                "datetime": 1703260569,
+                "headline": "Why Nike Stock Got Hammered Today",
+                "summary": "Is the space's biggest player losing market share to the up-and-comers?",
+                "image": "https://g.foolcdn.com/editorial/images/759185/concerned-investor-closes-eyes-and-rubs-temples-in-office-setting.jpg",
+                "source": "Yahoo",
+                "url": "https://finnhub.io/api/news?id=96f1e4e786643b959017e15cb4a8f4e4d578af4fafe14fd1fbdc8ac17e96c5da"
+            },
+            {
+                "datetime": 1703260365,
+                "headline": "Dow Jones Rallies 100 Points Despite Nike Carnage; Warren Buffett News Lifts This Oil Giant",
+                "summary": "The Dow Jones was in rally mode again early Friday, helped by another cool reading on inflation. Winners beat losers on the NYSE by 4 to 1.",
+                "image": "https://media.zenfs.com/en/ibd.com/7fb299d8de95395c8ce5e424c2049073",
+                "source": "Yahoo",
+                "url": "https://finnhub.io/api/news?id=3d758c4af445a1f93428dd3ec826a1d3a3274cd0ff3bcfeb7bd6f18ac696b842"
+            },
+            {
+                "datetime": 1703258250,
+                "headline": "Nike Stock Is Weighing on the Dow Friday",
+                "summary": "Nike stock was tumbling Friday after the athletic clothing brand announced a [cost cutting initiative](https://www.barrons.com/articles/nike-earnings-stock-price-5b818ed5?mod=article_inline) amid demand concerns.",
+                "image": "https://media.zenfs.com/en/Barrons.com/12ea0f43d8f8307249a68d1cb2e0587e",
+                "source": "Yahoo",
+                "url": "https://finnhub.io/api/news?id=4a33bdfa7d3b992c6ee039b82d56bbde7d162ea22e4604c7400edfc89185a1f7"
+            }
+        ]
+    },
+    "BA": {
+        "lastUpdate": 1703286198911,
+        "topNews": [
+            {
+                "datetime": 1703218522,
+                "headline": "REFILE-Boeing's first Dreamliner delivery to China since 2019 to land Friday",
+                "summary": "Boeing's first direct delivery of a 787 Dreamliner to China since 2019 is set to land in Shanghai on Friday, a step that could hasten the end of China's freeze on deliveries of the firm's profitable 737 MAX after more than four years.  Privately owned Chinese carrier Juneyao Airlines on Thursday took delivery of the 787-9 aircraft, which Boeing said then departed for China from Everett Paine Field in Washington state.",
+                "image": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png",
+                "source": "Yahoo",
+                "url": "https://finnhub.io/api/news?id=63bfbfe7285d79f3e4d8ad48789d39319f33c74d10689fccc06b099c1d616a9a"
+            },
+            {
+                "datetime": 1703216883,
+                "headline": "Boeing Secures First Dreamliner Delivery to China Since 2019",
+                "summary": "(Bloomberg) -- China has signed off on the first direct delivery of a Boeing Co. 787 jet in four years, an indication strained US-China trade relations may be easing and a potential precursor to the more significant resumption of 737 Max deliveries.Most Read from BloombergHyperloop One to Shut Down After Failing to Reinvent TransitHarvard Financial Pain Grows as Blavatnik Joins Donor RevoltVilified Zero-Day Options Blamed by Traders for S&P DeclineGiuliani Files for Bankruptcy After $148 Million",
+                "image": "https://s.yimg.com/ny/api/res/1.2/FVtngu8dycuWrRI0yzi_lA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTk-/https://media.zenfs.com/en/bloomberg_markets_842/867f8843cadf4c33f5961efa9658b43e",
+                "source": "Yahoo",
+                "url": "https://finnhub.io/api/news?id=3438bf018f29635316d5efb06c7425d864e9a870f66ff82c64ceaa2f6570693c"
+            },
+            {
+                "datetime": 1703193180,
+                "headline": "These Stocks Moved the Most Today: Micron, BlackBerry, JFrog, Paychex, CarMax, Carnival, and More",
+                "summary": "Micron forecast fiscal second-quarter revenue higher than expectations, BlackBerry issues disappointing guidance, and JFrog shares are upgraded.",
+                "image": "https://s.yimg.com/ny/api/res/1.2/OLSODqVuhFXMFlnx2Cm48A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MDA-/https://media.zenfs.com/en/Barrons.com/48b731b708f045be8a7a6d70d6e7e7ab",
+                "source": "Yahoo",
+                "url": "https://finnhub.io/api/news?id=521f33116a5a52bdddb8750d953461f5d1afcd6a7008a73c22a921c2b2840595"
+            },
+            {
+                "datetime": 1703192618,
+                "headline": "Boeing 737 Max Deliveries In China Move Closer To Takeoff",
+                "summary": "Boeing won key approval from China's aviation regulator for 737 Max deliveries to resume, according to a report. BA stock rose modestly.",
+                "image": "https://media.zenfs.com/en/ibd.com/0fdb681a242e99f66195baff2e3c898c",
+                "source": "Yahoo",
+                "url": "https://finnhub.io/api/news?id=295a8abad18193e8a29f3d70bae840cf7d7d1a95d9d5366d9c6a137b4db7650c"
+            },
+            {
+                "datetime": 1703187960,
+                "headline": "Jeff Bezos’ Rocket Startup and Cerberus Compete to Buy SpaceX Rival",
+                "summary": "Blue Origin and Cerberus made buyout bids for a rocket-launch venture owned by Boeing and Lockheed Martin.",
+                "image": "https://s.yimg.com/ny/api/res/1.2/fbYPU3dNlPRuq7NBy8rxbw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MDA-/https://media.zenfs.com/en/wsj.com/88f9c701ef3d3733e4b661eb931b6f42",
+                "source": "Yahoo",
+                "url": "https://finnhub.io/api/news?id=07fb7dc495907ce4e8d017de6033cf4cb23519d4ad99c7dd4f0680b373d6efd2"
+            }
+        ]
+    },
+    "GOOGL": {
+        "lastUpdate": 1703286198933,
+        "topNews": [
+            {
+                "datetime": 1703253872,
+                "headline": "Jim Cramer Stock Portfolio: 12 Recent Additions",
+                "summary": "In this article, we discuss the 12 recent additions to the Jim Cramer stock portfolio. If you want to read about some more Cramer stocks, go directly to Jim Cramer Stock Portfolio: 5 Recent Additions. Jim Cramer, the host of Mad Money on CNBC, is one of the most well-known finance personalities on television. He […]",
+                "image": "https://media.zenfs.com/en/insidermonkey.com/a6c6a869a7c2c92171425bdb9b9fb0f6",
+                "source": "Yahoo",
+                "url": "https://finnhub.io/api/news?id=fa49dcb5d16732e4fe25eacbaee6c3139d382e6d4c0cc1ae525109bf1aa0ed15"
+            },
+            {
+                "datetime": 1703253609,
+                "headline": "Alphabet Inc. (GOOGL) Is a Trending Stock: Facts to Know Before Betting on It",
+                "summary": "Zacks.com users have recently been watching Alphabet (GOOGL) quite a bit. Thus, it is worth knowing the facts that could determine the stock's prospects.",
+                "image": "https://media.zenfs.com/en/zacks.com/71afbbc0512eb3c471136d93f39079c9",
+                "source": "Yahoo",
+                "url": "https://finnhub.io/api/news?id=bf10c76667c4d3c785f327e8a4b77c79435a85ff4bfec75213d373a23fbd2b98"
+            },
+            {
+                "datetime": 1703246735,
+                "headline": "Google makes bid to resolve competition concerns in Germany over its automotive services bundling",
+                "summary": "Following competition objections raised on Google in Germany this summer over bundling of services including Google Maps via its Android-based in-car infotainment system software, known as Google Automotive Services (GAS), the tech giant has made an offer of some service unbundling and the removal of contractual restrictions it applies to vehicle makers in a bid to settle the regulatory intervention. Google's proposed remedies will be put to car makers in a market test by the German competition",
+                "image": "https://techcrunch.com/wp-content/uploads/2019/05/Android-Automotive-OS-Polestar.png?w=957",
+                "source": "Yahoo",
+                "url": "https://finnhub.io/api/news?id=4bfe1d9fae325bf8246e6a90ea42efdc43ef7d50ebc007030cad87bacf10b54d"
+            },
+            {
+                "datetime": 1703242800,
+                "headline": "The Zacks Analyst Blog Highlights Alphabet, Comcast, NextEra, Vertex and Eni",
+                "summary": "Alphabet, Comcast, NextEra, Vertex and Eni are included in this Analyst Blog.",
+                "image": "https://media.zenfs.com/en/zacks.com/76132323c88812a1d58faada145d6911",
+                "source": "Yahoo",
+                "url": "https://finnhub.io/api/news?id=81cc6bcc906a4ad46f47e8c346b3a9cf2f0acc633f85c5f8ac1b4389ffcdea55"
+            },
+            {
+                "datetime": 1703240460,
+                "headline": "3 \"Magnificent Seven\" Stocks With 50% to 122% Upside in 2024 (and Beyond), According to Select Wall Street Analysts",
+                "summary": "Among Apple, Microsoft, Alphabet, Amazon, Nvidia, Meta Platforms, and Tesla, there are three industry-leading juggernauts that a trio of Wall Street analysts believe will soar.",
+                "image": "https://g.foolcdn.com/editorial/images/758881/bull-market-rising-stock-charts-financial-newspaper-quotes-invest-getty.jpg",
+                "source": "Yahoo",
+                "url": "https://finnhub.io/api/news?id=bfef8d6d471b537575882c915dee71dd458d0e1ce9f3d55e4fc4dcd8285014e0"
+            }
+        ]
+    },
+    "ORCL": {
+        "lastUpdate": 1703286198848,
+        "topNews": [
+            {
+                "datetime": 1703242869,
+                "headline": "Oracle (NYSE:ORCL) stock performs better than its underlying earnings growth over last five years",
+                "summary": "The most you can lose on any stock (assuming you don't use leverage) is 100% of your money. But on the bright side, if...",
+                "image": "https://media.zenfs.com/en/simply_wall_st__316/7cfe18e4eec888a4960fba10323477cb",
+                "source": "Yahoo",
+                "url": "https://finnhub.io/api/news?id=4f39c7780b015db5e1ec334a6661a78a2d2e3eb31a351177c84071f44fe7c76e"
+            },
+            {
+                "datetime": 1703167223,
+                "headline": "Can Oracle Cash-In On The AI Cloud 'Gold Rush'?",
+                "summary": "Oracle stock has been up-and-down in the back half of 2023, as investors debate how much AI can boost its cloud-computing business.",
+                "image": "https://media.zenfs.com/en/ibd.com/b6b6149dbeae8d52a80822e4c274bab7",
+                "source": "Yahoo",
+                "url": "https://finnhub.io/api/news?id=cfa588f6ba544c2600c146f732a84e2d7c860b0ba38f08824409f283775f3a8d"
+            },
+            {
+                "datetime": 1703155500,
+                "headline": "2 Spectacular Artificial Intelligence (AI) Stocks Primed to Beat the S&P 500 in 2024",
+                "summary": "These two artificial intelligence stocks aren't named Nvidia, Microsoft, or Amazon.",
+                "image": "https://g.foolcdn.com/editorial/images/758878/people-viewing-a-mobile-device-in-front-of-stacks-of-supercomputers.jpg",
+                "source": "Yahoo",
+                "url": "https://finnhub.io/api/news?id=4b1b0d7a37a5725ea0fe5c384af4e0994d60c7acda3c59d73db89e239ed3f51e"
+            },
+            {
+                "datetime": 1703100273,
+                "headline": "The biggest tech stories to watch in 2024",
+                "summary": "These are some of the biggest tech stories that you'll be talking about in 2024.",
+                "image": "https://s.yimg.com/ny/api/res/1.2/cbtyVwcccRg3JkawmpoD5A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-12/6d6597d0-9f62-11ee-b732-feefee087a87",
+                "source": "Yahoo",
+                "url": "https://finnhub.io/api/news?id=32eec39f320ed956ecd8de855fe35159243215951baaf16028ed1413924c0850"
+            },
+            {
+                "datetime": 1703089980,
+                "headline": "Oracle (ORCL) Fusion Cloud Offering Aids North Memorial Health",
+                "summary": "Oracle (ORCL) Fusion Cloud Applications is adopted by North Memorial Health to unify and streamline finance, supply chain and HR processes.",
+                "image": "https://media.zenfs.com/en/zacks.com/44deeada4a931587093cfb55cec8bf0e",
+                "source": "Yahoo",
+                "url": "https://finnhub.io/api/news?id=4330e379a28db9b13a40675a6f72fd386d1179a4bd2d5764fce76666f3f5661c"
+            }
+        ]
+    },
+    "MSFT": {
+        "lastUpdate": 1703286198903,
+        "topNews": [
+            {
+                "datetime": 1703256314,
+                "headline": "Microsoft Makes Historic AI Deal — But Not What You Might Expect",
+                "summary": "As MSFT stock remains in buy range, Microsoft and the AFL-CIO team up on the impact of AI on labor relations.",
+                "image": "https://media.zenfs.com/en/ibd.com/20652df20c52de0adf4e8d8464975e9d",
+                "source": "Yahoo",
+                "url": "https://finnhub.io/api/news?id=7920660cc126fa5aeb57665cf5804e463782eef7984e61243276938893e57f15"
+            },
+            {
+                "datetime": 1703246400,
+                "headline": "Bill Gates Has $34 Billion Invested in Just 5 Stocks",
+                "summary": "Following successful investors can give insights to where they see opportunity and Bill Gates has some interesting thoughts on where to put money.",
+                "image": "https://g.foolcdn.com/editorial/images/758832/blocks-with-arrows-pointing-up-building-growth.jpg",
+                "source": "Yahoo",
+                "url": "https://finnhub.io/api/news?id=c8be0927a3d750b2a482b60e35fd4bb525a08a4cbefe62b01adae7e5fa18b447"
+            },
+            {
+                "datetime": 1703240460,
+                "headline": "3 \"Magnificent Seven\" Stocks With 50% to 122% Upside in 2024 (and Beyond), According to Select Wall Street Analysts",
+                "summary": "Among Apple, Microsoft, Alphabet, Amazon, Nvidia, Meta Platforms, and Tesla, there are three industry-leading juggernauts that a trio of Wall Street analysts believe will soar.",
+                "image": "https://g.foolcdn.com/editorial/images/758881/bull-market-rising-stock-charts-financial-newspaper-quotes-invest-getty.jpg",
+                "source": "Yahoo",
+                "url": "https://finnhub.io/api/news?id=bfef8d6d471b537575882c915dee71dd458d0e1ce9f3d55e4fc4dcd8285014e0"
+            },
+            {
+                "datetime": 1703226753,
+                "headline": "Apple: Make No Mistake, Is The Smartwatch Sales Ban A Real Threat?",
+                "summary": "Apple is actively working on legal and technical solutions to resolve the issue and resume sales of its wearables as soon as possible. Find out why I still see AAPL as a solid stock to own.",
+                "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1445281649/image_1445281649.jpg?io=getty-c-w1536",
+                "source": "SeekingAlpha",
+                "url": "https://finnhub.io/api/news?id=ccaaa91faf68ae62b6f393601199d5f04d45369d4c0b0d7decbe6930bd42e6c7"
+            },
+            {
+                "datetime": 1703217600,
+                "headline": "Here’s an AI Stock You Probably Haven’t Heard Of. It Looks Like a Buy.",
+                "summary": "Synopsys stock is up 75% this year. That pales in comparison to better-known AI beneficiaries such as Nvidia, up 235%, and Palantir, up 174%.",
+                "image": "https://images.barrons.com/im-33863098/social",
+                "source": "MarketWatch",
+                "url": "https://finnhub.io/api/news?id=b8d6d9bf0510594d31fb66985a39af354c3d57563b9a40a3b1cc805d4447a48d"
+            }
+        ]
+    },
+    "DIS": {
+        "lastUpdate": 1703286198867,
+        "topNews": [
+            {
+                "datetime": 1703249100,
+                "headline": "Disney Can't Catch Netflix but Here's How It Can Make Billions in Streaming",
+                "summary": "Disney's future is in streaming, but it will be a messy process getting there.",
+                "image": "https://g.foolcdn.com/editorial/images/758579/person-turning-on-tv.jpg",
+                "source": "Yahoo",
+                "url": "https://finnhub.io/api/news?id=8aeecd941f960c4dfcec49d58a78a022cca939fe424386452fbfd2cfe5276265"
+            },
+            {
+                "datetime": 1703223600,
+                "headline": "2023's Box Office Bounce Back: Hollywood Strives To Shake Off Industry Drama",
+                "summary": "Between management shake-ups at Disney late last year and the jump in streaming service costs throughout 2023, the film industry has undergone a roller coaster ride.",
+                "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/92043739/image_92043739.jpg?io=getty-c-w1536",
+                "source": "SeekingAlpha",
+                "url": "https://finnhub.io/api/news?id=81c2992a6f30b7a9ce49cfa7c8c2b6d51a7849edbf0863475acfa6d22d407305"
+            },
+            {
+                "datetime": 1703198716,
+                "headline": "Walt Disney (DIS) Gains But Lags Market: What You Should Know",
+                "summary": "Walt Disney (DIS) concluded the recent trading session at $92.02, signifying a +0.82% move from its prior day's close.",
+                "image": "https://media.zenfs.com/en/zacks.com/5ecaf2a9bf082a5f3a554e6526b34be0",
+                "source": "Yahoo",
+                "url": "https://finnhub.io/api/news?id=bae4e32d827520fc7e6ded77551c8da051b175e5201422f87bcdec9a257b59d0"
+            },
+            {
+                "datetime": 1703180230,
+                "headline": "35 Best Countries For Raising Kids",
+                "summary": "In this article, we are going to discuss the 35 Best Countries For Raising Kids. You can skip our detailed analysis based on Reddit threads and go directly to 10 Best Countries For Raising Kids. When choosing the best place to raise kids, there are many factors to consider, such as the cost of living, education […]",
+                "image": "https://media.zenfs.com/en/insidermonkey.com/f8bd0ea027ce727ec85b5b15270d467b",
+                "source": "Yahoo",
+                "url": "https://finnhub.io/api/news?id=189cae9c43aa4e04142db0c1fad272c594b3e69f8224524fe18cd4c1a0e08b4b"
+            },
+            {
+                "datetime": 1703176620,
+                "headline": "Walt Disney Co. stock rises Thursday, still underperforms market",
+                "summary": "Shares of Walt Disney Co. inched 0.82% higher to $92.02 Thursday, on what proved to be an all-around great trading session for the stock market, with the S&P...",
+                "image": "https://images.mktw.net/im-220105/social",
+                "source": "MarketWatch",
+                "url": "https://finnhub.io/api/news?id=228803ed7e966cc325ec3c08364500e61d2d701858896a02ac707909d509c209"
+            }
+        ]
+    },
+    "BABA": {
+        "lastUpdate": 1703286198869,
+        "topNews": [
+            {
+                "datetime": 1703257200,
+                "headline": "Alibaba Plans to Unlock Value for Shareholders. Here's How.",
+                "summary": "Alibaba stock has good reasons to rise from here.",
+                "image": "https://g.foolcdn.com/editorial/images/758891/credit-score-shopping-getty.jpg",
+                "source": "Yahoo",
+                "url": "https://finnhub.io/api/news?id=dac71ba1f500083bf2ec6dec981820c4538e721d7dadceef8ede31eb2f0ff3d8"
+            },
+            {
+                "datetime": 1703256834,
+                "headline": "Tencent leads China selloff amid new gaming restrictions",
+                "summary": "Shares of tech conglomerate Tencent (0700.HK) were down more than 12% Friday morning amid an $80 billion market selloff in Chinese gaming stocks, sparked by new, unexpected restrictions from Beijing. The restrictions come from Chinese government regulators who are attempting to combat addictive gaming lifestyles among users. Yahoo Finance Reporter Jared Blikre breaks down the latest developments with Tencent and the broader Chinese markets. For more expert insight and the latest market action, click here to watch this full episode of Yahoo Finance Live.",
+                "image": "https://s.yimg.com/ny/api/res/1.2/TJX1q06ZLp4KkjFpkfD2VA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzY-/https://s.yimg.com/os/creatr-uploaded-images/2023-12/7fed8770-a0d7-11ee-be97-60a317d6ca63",
+                "source": "Yahoo",
+                "url": "https://finnhub.io/api/news?id=b80b2221438ce57bf3df27c1937a7c1c3e4e5c4347bd67dd427dc49885bf88e2"
+            },
+            {
+                "datetime": 1703253346,
+                "headline": "Alibaba: Management Changes Can Drive Growth",
+                "summary": "Alibaba's weak revenue growth and management changes have resulted in a 17% stock decline YTD, but signs of improvement are here. Read more on BABA stock here.",
+                "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1020075066/image_1020075066.jpg?io=getty-c-w1536",
+                "source": "SeekingAlpha",
+                "url": "https://finnhub.io/api/news?id=94e5ecbc2adc6f54b67fd497b468444c51352b34ff9a2dabbbdbb43568620c71"
+            },
+            {
+                "datetime": 1703252640,
+                "headline": "14 Most Profitable Large Cap Stocks to Buy",
+                "summary": "In this article, we will take a look at the 14 most profitable large cap stocks to buy. To skip our analysis of the recent trends, and market activity, you can go directly to see the 5 Most Profitable Large Cap Stocks to Buy. The profitability of companies of all sizes, including large-cap companies, was […]",
+                "image": "https://media.zenfs.com/en/insidermonkey.com/74b6cafcda84e56c6cf8dfea32afdb01",
+                "source": "Yahoo",
+                "url": "https://finnhub.io/api/news?id=bd4c675ab2427998057059e461fdddfec7c4fee3d8416351cb809ab645790b5c"
+            },
+            {
+                "datetime": 1703247600,
+                "headline": "Tencent Falls On New Gaming Restrictions: Assessing The Impact",
+                "summary": "Tencent stock fell double-digits after the Chinese government announced new rules on online gaming. Check out the impact of this on TCEHY stock.",
+                "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/513505872/image_513505872.jpg?io=getty-c-w1536",
+                "source": "SeekingAlpha",
+                "url": "https://finnhub.io/api/news?id=f6e0d264a150aebe2a427f0b5e35ade8e2ebc1664af91cef0b3f0305ed874ae2"
+            }
+        ]
+    },
+    "INTC": {
+        "lastUpdate": 1703286198881,
+        "topNews": [
+            {
+                "datetime": 1703247904,
+                "headline": "Intel: Reasonably Priced, Despite Some Blemishes",
+                "summary": "Intel, one of the world's leading semiconductors, is embarking on a significant turnaround under its CEO Pat Gelsinger. Find out my analysis of INTC stock.",
+                "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1422114537/image_1422114537.jpg?io=getty-c-w1536",
+                "source": "SeekingAlpha",
+                "url": "https://finnhub.io/api/news?id=ddd41734af9ef87ba58db289b6cee17f33e9c33b773af8965119c73e504c7afe"
+            },
+            {
+                "datetime": 1703245920,
+                "headline": "Forget Nvidia: Buy This Magnificent Artificial Intelligence (AI) Stock Instead",
+                "summary": "EPS estimates show this company could double Nvidia's stock growth over the next two years.",
+                "image": "https://g.foolcdn.com/editorial/images/759024/celebrating-stock-market-success.jpg",
+                "source": "Yahoo",
+                "url": "https://finnhub.io/api/news?id=662f620c495fc7a0e5b73b6212198a9fff00bf966e84c9787116d602467dde43"
+            },
+            {
+                "datetime": 1703245635,
+                "headline": "Intel 2024: Annus Mirabilis",
+                "summary": "Intel's accelerated execution in delivering process nodes and improved competitive position against TSMC creates long-term growth prospects. Click here for more.",
+                "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1002010996/image_1002010996.jpg?io=getty-c-w1536",
+                "source": "SeekingAlpha",
+                "url": "https://finnhub.io/api/news?id=49b298dd3bf88d47a173d778c56e160e10246b60caae5ffb0bda01677c04246c"
+            },
+            {
+                "datetime": 1703242800,
+                "headline": "The Zacks Analyst Blog Highlights NVIDIA, Intel, CrowdStrike, Meta Platforms and Shopify",
+                "summary": "NVIDIA, Intel, CrowdStrike, Meta Platforms and Shopify are included in this Analyst Blog.",
+                "image": "https://media.zenfs.com/en/zacks.com/40f5b83b1a5f635d87b8c1d9e4376b83",
+                "source": "Yahoo",
+                "url": "https://finnhub.io/api/news?id=6af908354e8247fc0a24c46c58795effdcf320c14bdbe3518f14763b3430b593"
+            },
+            {
+                "datetime": 1703242800,
+                "headline": "7 Risks Intel Stock Investors Should Know for 2024",
+                "summary": "Will Intel stock have another great year in 2024?",
+                "image": "https://g.foolcdn.com/editorial/images/759162/intel-cube-in-front-of-intel-headquarters-with-logo-on-front_intel.jpg",
+                "source": "Yahoo",
+                "url": "https://finnhub.io/api/news?id=d4605a351d71e0a67104eda779212e16dda2d67459bedd7aafcdd2bf2ae3f5a9"
+            }
+        ]
+    },
+    "MA": {
+        "lastUpdate": 1703286198811,
+        "topNews": [
+            {
+                "datetime": 1703240100,
+                "headline": "This Phenomenal Dividend Growth Stock Just Increased Its Payout 16%",
+                "summary": "And it could keep raising its dividend for years to come.",
+                "image": "https://g.foolcdn.com/editorial/images/758900/getty-images-investor-looks-at-a-financial-chart-on-a-laptop-1200x675-128554e.jpg",
+                "source": "Yahoo",
+                "url": "https://finnhub.io/api/news?id=424a303e59eb6eff4e92a0ddc8df9b789d7b2674e82ac95a71268194c477104d"
+            },
+            {
+                "datetime": 1703237988,
+                "headline": "Block: A Doubtful Turnaround Story",
+                "summary": "Block's share price has returned 60% over the past 3-month period alone, but this is hardly a sign of things to come. Read more about SQ stock here.",
+                "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1423628571/image_1423628571.jpg?io=getty-c-w1536",
+                "source": "SeekingAlpha",
+                "url": "https://finnhub.io/api/news?id=8977127671497737516b6c90c2b51539c6b3592f2e21b2cf98a9bb4021cefcce"
+            },
+            {
+                "datetime": 1703171746,
+                "headline": "25 Best Countries for Women in Terms of Economic Opportunity",
+                "summary": "In this article, we will be covering the 25 best countries for women in terms of economic opportunity. This article will outline the recent trends in female entrepreneurship and employment. If you want to skip our analysis, you can go directly to the 5 Best Countries for Women in Terms of Economic Opportunity. According to […]",
+                "image": "https://media.zenfs.com/en/insidermonkey.com/432dcfcdfa71a457170920e640871e3d",
+                "source": "Yahoo",
+                "url": "https://finnhub.io/api/news?id=c28efe848d2a9556a6521a79786758840fd7f17d2e0013d7f43d60e8c9696895"
+            },
+            {
+                "datetime": 1703154060,
+                "headline": "Got $1,000? 5 of the Safest Stocks to Buy for 2024",
+                "summary": "Regardless of what's thrown Wall Street's way in the new year, these tried-and-true companies can deliver for their shareholders.",
+                "image": "https://g.foolcdn.com/editorial/images/758752/person-holding-cash-bills-money-hundred-dollar-fifty-dividend-income-invest-retire-spend-getty.jpg",
+                "source": "Yahoo",
+                "url": "https://finnhub.io/api/news?id=ff357a60128b15c14ddc53fe84278954e214584c0fd11414a11cebf51799bde0"
+            },
+            {
+                "datetime": 1703142900,
+                "headline": "Warren Buffett's Wealth-Building Formula: Consider VIG Instead Of Berkshire Hathaway",
+                "summary": "We examine several Buffett quotes that encapsulate his wealth-building formula and look at why VIG could be a better option than Berkshire Hathaway.",
+                "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/492446672/image_492446672.jpg?io=getty-c-w1536",
+                "source": "SeekingAlpha",
+                "url": "https://finnhub.io/api/news?id=389eb04115e0537e9b9c548ec86dc51a4354b1500882e97622053f8355550136"
+            }
+        ]
+    }
+}

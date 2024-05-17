@@ -1,0 +1,62 @@
+{
+    "AMZN": {
+        "name": "Amazon.com Inc"
+    },
+    "META": {
+        "name": "Meta Platforms Inc"
+    },
+    "AAPL": {
+        "name": "Apple Inc"
+    },
+    "V": {
+        "name": "Visa Inc"
+    },
+    "INTC": {
+        "name": "Intel Corp"
+    },
+    "ORCL": {
+        "name": "Oracle Corp"
+    },
+    "MA": {
+        "name": "Mastercard Inc"
+    },
+    "MSFT": {
+        "name": "Microsoft Corp"
+    },
+    "TSLA": {
+        "name": "Tesla Inc"
+    },
+    "CSCO": {
+        "name": "Cisco Systems Inc"
+    },
+    "KO": {
+        "name": "Coca-Cola Co"
+    },
+    "NKE": {
+        "name": "Nike Inc"
+    },
+    "WMT": {
+        "name": "Walmart Inc"
+    },
+    "BABA": {
+        "name": "Alibaba Group Holding Ltd"
+    },
+    "DIS": {
+        "name": "Walt Disney Co"
+    },
+    "JPM": {
+        "name": "JPMorgan Chase & Co"
+    },
+    "GOOGL": {
+        "name": "Alphabet Inc"
+    },
+    "NVDA": {
+        "name": "NVIDIA Corp"
+    },
+    "BA": {
+        "name": "Boeing Co"
+    },
+    "JNJ": {
+        "name": "Johnson & Johnson"
+    }
+}

@@ -1,0 +1,18 @@
+/* scrollbar styling*/
+
+main::-webkit-scrollbar,
+div::-webkit-scrollbar {
+  width: 5px !important;
+  height: 5px !important;
+}
+
+main::-webkit-scrollbar-thumb,
+div::-webkit-scrollbar-thumb {
+background-color: #9c9c9c;
+border-radius: 10px !important;
+}
+
+/*delete scrollbar on stockData*/
+.StockDataWrapper::-webkit-scrollbar {
+    display: none;
+  }

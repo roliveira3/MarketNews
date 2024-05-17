@@ -1,0 +1,402 @@
+{
+    "V": {
+        "lastUpdate": 1703285941275,
+        "metrics": {
+            "lowPriceWeekly": 232.21,
+            "lowDateWeekly": "2023-09-25",
+            "highPriceWeekly": 263.25,
+            "highDateWeekly": "2023-12-14",
+            "lowPriceYearly": 202.13,
+            "lowDateYearly": "2022-12-22",
+            "highPriceYearly": 263.25,
+            "highDateYearly": "2023-12-14",
+            "priceRelativeToSP500Yearly": 3.1086,
+            "marketCap": 521698.5,
+            "dividendPerShareYearly": 1.8338,
+            "revenuePerShareYearly": 15.6609,
+            "last24h": -0.22,
+            "last7d": 0.16,
+            "last30d": 1.87
+        }
+    },
+    "ORCL": {
+        "lastUpdate": 1703285950360,
+        "metrics": {
+            "lowPriceWeekly": 99.26,
+            "lowDateWeekly": "2023-12-13",
+            "highPriceWeekly": 117.58,
+            "highDateWeekly": "2023-11-29",
+            "lowPriceYearly": 79.43,
+            "lowDateYearly": "2022-12-22",
+            "highPriceYearly": 127.54,
+            "highDateYearly": "2023-06-15",
+            "priceRelativeToSP500Yearly": 7.5014,
+            "marketCap": 291000.9,
+            "dividendPerShareYearly": 1.3641,
+            "revenuePerShareYearly": 18.06,
+            "last24h": 0.28,
+            "last7d": 2.62,
+            "last30d": -8.86
+        }
+    },
+    "JPM": {
+        "lastUpdate": 1703285950908,
+        "metrics": {
+            "lowPriceWeekly": 143.7,
+            "lowDateWeekly": "2023-09-25",
+            "highPriceWeekly": 169.41,
+            "highDateWeekly": "2023-12-20",
+            "lowPriceYearly": 123.11,
+            "lowDateYearly": "2023-03-24",
+            "highPriceYearly": 169.41,
+            "highDateYearly": "2023-12-20",
+            "priceRelativeToSP500Yearly": 4.3521,
+            "marketCap": 485515.94,
+            "dividendPerShareYearly": 4.6145,
+            "revenuePerShareYearly": 43.33165,
+            "last24h": -0.21,
+            "last7d": 1.17,
+            "last30d": 8.83
+        }
+    },
+    "META": {
+        "lastUpdate": 1703285948275,
+        "metrics": {
+            "lowPriceWeekly": 293.7,
+            "lowDateWeekly": "2023-09-25",
+            "highPriceWeekly": 357.1999,
+            "highDateWeekly": "2023-12-22",
+            "lowPriceYearly": 114.38,
+            "lowDateYearly": "2022-12-22",
+            "highPriceYearly": 356.405,
+            "highDateYearly": "2023-12-21",
+            "priceRelativeToSP500Yearly": 173.2781,
+            "marketCap": 909962.6,
+            "dividendPerShareYearly": null,
+            "revenuePerShareYearly": 43.1566,
+            "last24h": -0.28,
+            "last7d": 5.42,
+            "last30d": 3.48
+        }
+    },
+    "MA": {
+        "lastUpdate": 1703285942220,
+        "metrics": {
+            "lowPriceWeekly": 399.84,
+            "lowDateWeekly": "2023-09-25",
+            "highPriceWeekly": 427.61,
+            "highDateWeekly": "2023-12-20",
+            "lowPriceYearly": 336.43,
+            "lowDateYearly": "2022-12-22",
+            "highPriceYearly": 427.61,
+            "highDateYearly": "2023-12-20",
+            "priceRelativeToSP500Yearly": 0.103,
+            "marketCap": 397091.9,
+            "dividendPerShareYearly": 1.9659,
+            "revenuePerShareYearly": 22.9011,
+            "last24h": -0.06,
+            "last7d": 1.26,
+            "last30d": 2.92
+        }
+    },
+    "INTC": {
+        "lastUpdate": 1703285948654,
+        "metrics": {
+            "lowPriceWeekly": 33.765,
+            "lowDateWeekly": "2023-09-25",
+            "highPriceWeekly": 48.1557,
+            "highDateWeekly": "2023-12-22",
+            "lowPriceYearly": 24.73,
+            "lowDateYearly": "2023-02-28",
+            "highPriceYearly": 47.27,
+            "highDateYearly": "2023-12-15",
+            "priceRelativeToSP500Yearly": 53.087,
+            "marketCap": 201602.38,
+            "dividendPerShareYearly": 1.4614,
+            "revenuePerShareYearly": 15.2932,
+            "last24h": 2.04,
+            "last7d": 4.03,
+            "last30d": 10.09
+        }
+    },
+    "WMT": {
+        "lastUpdate": 1703285948624,
+        "metrics": {
+            "lowPriceWeekly": 149.54,
+            "lowDateWeekly": "2023-12-11",
+            "highPriceWeekly": 163.11,
+            "highDateWeekly": "2023-09-25",
+            "lowPriceYearly": 136.09,
+            "lowDateYearly": "2023-03-10",
+            "highPriceYearly": 169.94,
+            "highDateYearly": "2023-11-15",
+            "priceRelativeToSP500Yearly": -15.7619,
+            "marketCap": 422694.16,
+            "dividendPerShareYearly": 2.242,
+            "revenuePerShareYearly": 223.5878,
+            "last24h": 0.92,
+            "last7d": 2.18,
+            "last30d": 1.04
+        }
+    },
+    "NVDA": {
+        "lastUpdate": 1703285950364,
+        "metrics": {
+            "lowPriceWeekly": 411.77,
+            "lowDateWeekly": "2023-09-25",
+            "highPriceWeekly": 504.3299,
+            "highDateWeekly": "2023-12-18",
+            "lowPriceYearly": 138.84,
+            "lowDateYearly": "2022-12-28",
+            "highPriceYearly": 505.48,
+            "highDateYearly": "2023-11-20",
+            "priceRelativeToSP500Yearly": 174.5029,
+            "marketCap": 1210053,
+            "dividendPerShareYearly": 0.1601,
+            "revenuePerShareYearly": 10.7595,
+            "last24h": -0.26,
+            "last7d": -0.22,
+            "last30d": 0.56
+        }
+    },
+    "CSCO": {
+        "lastUpdate": 1703285948668,
+        "metrics": {
+            "lowPriceWeekly": 47.59,
+            "lowDateWeekly": "2023-12-05",
+            "highPriceWeekly": 53.68,
+            "highDateWeekly": "2023-09-25",
+            "lowPriceYearly": 45.555,
+            "lowDateYearly": "2023-05-04",
+            "highPriceYearly": 58.185,
+            "highDateYearly": "2023-09-01",
+            "priceRelativeToSP500Yearly": -18.1079,
+            "marketCap": 204189.66,
+            "dividendPerShareYearly": 1.5416,
+            "revenuePerShareYearly": 13.885,
+            "last24h": 0.56,
+            "last7d": 0.53,
+            "last30d": 4.09
+        }
+    },
+    "NKE": {
+        "lastUpdate": 1703285948574,
+        "metrics": {
+            "lowPriceWeekly": 89.79,
+            "lowDateWeekly": "2023-09-25",
+            "highPriceWeekly": 123.3916,
+            "highDateWeekly": "2023-12-20",
+            "lowPriceYearly": 88.66,
+            "lowDateYearly": "2023-09-28",
+            "highPriceYearly": 131.31,
+            "highDateYearly": "2023-02-02",
+            "priceRelativeToSP500Yearly": -16.5582,
+            "marketCap": 166295.12,
+            "dividendPerShareYearly": 1.2968,
+            "revenuePerShareYearly": 32.6223,
+            "last24h": -0.66,
+            "last7d": -11.36,
+            "last30d": 0.09
+        }
+    },
+    "JNJ": {
+        "lastUpdate": 1703285948630,
+        "metrics": {
+            "lowPriceWeekly": 150.84,
+            "lowDateWeekly": "2023-11-28",
+            "highPriceWeekly": 160.36,
+            "highDateWeekly": "2023-09-25",
+            "lowPriceYearly": 144.95,
+            "lowDateYearly": "2023-10-27",
+            "highPriceYearly": 180.93,
+            "highDateYearly": "2023-01-06",
+            "priceRelativeToSP500Yearly": -35.2428,
+            "marketCap": 375567.47,
+            "dividendPerShareYearly": 4.4562,
+            "revenuePerShareYearly": 35.6393,
+            "last24h": 0.69,
+            "last7d": 0.3,
+            "last30d": 3.09
+        }
+    },
+    "BABA": {
+        "lastUpdate": 1703285950826,
+        "metrics": {
+            "lowPriceWeekly": 70.08,
+            "lowDateWeekly": "2023-12-11",
+            "highPriceWeekly": 87.27,
+            "highDateWeekly": "2023-09-25",
+            "lowPriceYearly": 70.08,
+            "lowDateYearly": "2023-12-11",
+            "highPriceYearly": 121.3,
+            "highDateYearly": "2023-01-26",
+            "priceRelativeToSP500Yearly": -35.5416,
+            "marketCap": 191037.61,
+            "dividendPerShareYearly": 0,
+            "revenuePerShareYearly": 41.1427,
+            "last24h": -1.31,
+            "last7d": 0.97,
+            "last30d": -4.53
+        }
+    },
+    "MSFT": {
+        "lastUpdate": 1703285948614,
+        "metrics": {
+            "lowPriceWeekly": 315,
+            "lowDateWeekly": "2023-09-25",
+            "highPriceWeekly": 384.3,
+            "highDateWeekly": "2023-11-29",
+            "lowPriceYearly": 219.35,
+            "lowDateYearly": "2023-01-06",
+            "highPriceYearly": 384.3,
+            "highDateYearly": "2023-11-29",
+            "priceRelativeToSP500Yearly": 30.4326,
+            "marketCap": 2776247.5,
+            "dividendPerShareYearly": 2.6584,
+            "revenuePerShareYearly": 28.3612,
+            "last24h": 0.41,
+            "last7d": 1.47,
+            "last30d": -0.69
+        }
+    },
+    "BA": {
+        "lastUpdate": 1703285949674,
+        "metrics": {
+            "lowPriceWeekly": 195.19,
+            "lowDateWeekly": "2023-09-25",
+            "highPriceWeekly": 267.54,
+            "highDateWeekly": "2023-12-21",
+            "lowPriceYearly": 176.25,
+            "lowDateYearly": "2023-10-25",
+            "highPriceYearly": 267.54,
+            "highDateYearly": "2023-12-21",
+            "priceRelativeToSP500Yearly": 11.2955,
+            "marketCap": 158516.02,
+            "dividendPerShareYearly": 2.0227,
+            "revenuePerShareYearly": 111.9462,
+            "last24h": -0.58,
+            "last7d": -1.35,
+            "last30d": 18.4
+        }
+    },
+    "AAPL": {
+        "lastUpdate": 1703285949188,
+        "metrics": {
+            "lowPriceWeekly": 174.15,
+            "lowDateWeekly": "2023-09-25",
+            "highPriceWeekly": 199.62,
+            "highDateWeekly": "2023-12-14",
+            "lowPriceYearly": 124.17,
+            "lowDateYearly": "2023-01-03",
+            "highPriceYearly": 199.62,
+            "highDateYearly": "2023-12-14",
+            "priceRelativeToSP500Yearly": 21.3401,
+            "marketCap": 3024543.5,
+            "dividendPerShareYearly": 0.9542,
+            "revenuePerShareYearly": 24.2386,
+            "last24h": -0.61,
+            "last7d": -1.46,
+            "last30d": 1.18
+        }
+    },
+    "GOOGL": {
+        "lastUpdate": 1703285948636,
+        "metrics": {
+            "lowPriceWeekly": 127.9,
+            "lowDateWeekly": "2023-12-04",
+            "highPriceWeekly": 141.99,
+            "highDateWeekly": "2023-12-22",
+            "lowPriceYearly": 84.86,
+            "lowDateYearly": "2023-01-06",
+            "highPriceYearly": 141.695,
+            "highDateYearly": "2023-12-20",
+            "priceRelativeToSP500Yearly": 34.3655,
+            "marketCap": 1777340.9,
+            "dividendPerShareYearly": null,
+            "revenuePerShareYearly": 21.4937,
+            "last24h": 0.77,
+            "last7d": 6.72,
+            "last30d": 2.2
+        }
+    },
+    "DIS": {
+        "lastUpdate": 1703285950628,
+        "metrics": {
+            "lowPriceWeekly": 80.5638,
+            "lowDateWeekly": "2023-09-25",
+            "highPriceWeekly": 96.51,
+            "highDateWeekly": "2023-11-24",
+            "lowPriceYearly": 78.7309,
+            "lowDateYearly": "2023-10-04",
+            "highPriceYearly": 118.18,
+            "highDateYearly": "2023-02-09",
+            "priceRelativeToSP500Yearly": -16.5207,
+            "marketCap": 168215.17,
+            "dividendPerShareYearly": 0,
+            "revenuePerShareYearly": 48.5781,
+            "last24h": -0.9,
+            "last7d": -2.64,
+            "last30d": -4.16
+        }
+    },
+    "TSLA": {
+        "lastUpdate": 1703285950654,
+        "metrics": {
+            "lowPriceWeekly": 228.2,
+            "lowDateWeekly": "2023-12-13",
+            "highPriceWeekly": 259.84,
+            "highDateWeekly": "2023-12-20",
+            "lowPriceYearly": 101.81,
+            "lowDateYearly": "2023-01-06",
+            "highPriceYearly": 299.29,
+            "highDateYearly": "2023-07-19",
+            "priceRelativeToSP500Yearly": 62.6085,
+            "marketCap": 813994.3,
+            "dividendPerShareYearly": null,
+            "revenuePerShareYearly": 23.4423,
+            "last24h": -0.84,
+            "last7d": -0.2,
+            "last30d": 8.19
+        }
+    },
+    "KO": {
+        "lastUpdate": 1703285949666,
+        "metrics": {
+            "lowPriceWeekly": 56.74,
+            "lowDateWeekly": "2023-09-25",
+            "highPriceWeekly": 60.04,
+            "highDateWeekly": "2023-12-14",
+            "lowPriceYearly": 51.55,
+            "lowDateYearly": "2023-10-06",
+            "highPriceYearly": 64.99,
+            "highDateYearly": "2023-04-24",
+            "priceRelativeToSP500Yearly": -31.4948,
+            "marketCap": 250714.78,
+            "dividendPerShareYearly": 1.7603,
+            "revenuePerShareYearly": 9.886,
+            "last24h": 0.48,
+            "last7d": -0.67,
+            "last30d": -0.32
+        }
+    },
+    "AMZN": {
+        "lastUpdate": 1703285948604,
+        "metrics": {
+            "lowPriceWeekly": 128.77,
+            "lowDateWeekly": "2023-09-25",
+            "highPriceWeekly": 155.63,
+            "highDateWeekly": "2023-12-20",
+            "lowPriceYearly": 81.43,
+            "lowDateYearly": "2023-01-06",
+            "highPriceYearly": 155.62,
+            "highDateYearly": "2023-12-20",
+            "priceRelativeToSP500Yearly": 54.9081,
+            "marketCap": 1589787.4,
+            "dividendPerShareYearly": null,
+            "revenuePerShareYearly": 50.4449,
+            "last24h": -0.35,
+            "last7d": 2.23,
+            "last30d": 4.45
+        }
+    }
+}

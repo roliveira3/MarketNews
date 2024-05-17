@@ -1,0 +1,202 @@
+{
+    "MSFT": {
+        "lastUpdate": 1703285862596,
+        "trends": {
+            "strongBuy": 23,
+            "buy": 32,
+            "hold": 6,
+            "sell": 0,
+            "strongSell": 0
+        }
+    },
+    "META": {
+        "lastUpdate": 1703285862323,
+        "trends": {
+            "strongBuy": 20,
+            "buy": 36,
+            "hold": 6,
+            "sell": 2,
+            "strongSell": 0
+        }
+    },
+    "GOOGL": {
+        "lastUpdate": 1703285862113,
+        "trends": {
+            "strongBuy": 16,
+            "buy": 31,
+            "hold": 10,
+            "sell": 0,
+            "strongSell": 0
+        }
+    },
+    "INTC": {
+        "lastUpdate": 1703285862336,
+        "trends": {
+            "strongBuy": 3,
+            "buy": 11,
+            "hold": 31,
+            "sell": 4,
+            "strongSell": 1
+        }
+    },
+    "AAPL": {
+        "lastUpdate": 1703285862114,
+        "trends": {
+            "strongBuy": 12,
+            "buy": 24,
+            "hold": 13,
+            "sell": 1,
+            "strongSell": 0
+        }
+    },
+    "NVDA": {
+        "lastUpdate": 1703285862068,
+        "trends": {
+            "strongBuy": 21,
+            "buy": 35,
+            "hold": 4,
+            "sell": 0,
+            "strongSell": 0
+        }
+    },
+    "ORCL": {
+        "lastUpdate": 1703285862084,
+        "trends": {
+            "strongBuy": 8,
+            "buy": 14,
+            "hold": 17,
+            "sell": 0,
+            "strongSell": 0
+        }
+    },
+    "AMZN": {
+        "lastUpdate": 1703285862056,
+        "trends": {
+            "strongBuy": 19,
+            "buy": 39,
+            "hold": 2,
+            "sell": 0,
+            "strongSell": 0
+        }
+    },
+    "WMT": {
+        "lastUpdate": 1703285862093,
+        "trends": {
+            "strongBuy": 13,
+            "buy": 27,
+            "hold": 6,
+            "sell": 0,
+            "strongSell": 0
+        }
+    },
+    "KO": {
+        "lastUpdate": 1703285862082,
+        "trends": {
+            "strongBuy": 9,
+            "buy": 17,
+            "hold": 7,
+            "sell": 0,
+            "strongSell": 0
+        }
+    },
+    "TSLA": {
+        "lastUpdate": 1703285862338,
+        "trends": {
+            "strongBuy": 7,
+            "buy": 15,
+            "hold": 21,
+            "sell": 4,
+            "strongSell": 4
+        }
+    },
+    "JPM": {
+        "lastUpdate": 1703285862131,
+        "trends": {
+            "strongBuy": 7,
+            "buy": 14,
+            "hold": 11,
+            "sell": 0,
+            "strongSell": 0
+        }
+    },
+    "JNJ": {
+        "lastUpdate": 1703285862305,
+        "trends": {
+            "strongBuy": 5,
+            "buy": 9,
+            "hold": 13,
+            "sell": 0,
+            "strongSell": 0
+        }
+    },
+    "CSCO": {
+        "lastUpdate": 1703285862104,
+        "trends": {
+            "strongBuy": 5,
+            "buy": 8,
+            "hold": 15,
+            "sell": 1,
+            "strongSell": 0
+        }
+    },
+    "MA": {
+        "lastUpdate": 1703285862374,
+        "trends": {
+            "strongBuy": 13,
+            "buy": 29,
+            "hold": 5,
+            "sell": 0,
+            "strongSell": 0
+        }
+    },
+    "BA": {
+        "lastUpdate": 1703285862133,
+        "trends": {
+            "strongBuy": 14,
+            "buy": 17,
+            "hold": 7,
+            "sell": 0,
+            "strongSell": 0
+        }
+    },
+    "DIS": {
+        "lastUpdate": 1703285862118,
+        "trends": {
+            "strongBuy": 9,
+            "buy": 19,
+            "hold": 7,
+            "sell": 2,
+            "strongSell": 0
+        }
+    },
+    "BABA": {
+        "lastUpdate": 1703285862312,
+        "trends": {
+            "strongBuy": 19,
+            "buy": 27,
+            "hold": 8,
+            "sell": 0,
+            "strongSell": 0
+        }
+    },
+    "V": {
+        "lastUpdate": 1703285862075,
+        "trends": {
+            "strongBuy": 13,
+            "buy": 25,
+            "hold": 6,
+            "sell": 0,
+            "strongSell": 0
+        }
+    },
+    "NKE": {
+        "lastUpdate": 1703285862415,
+        "trends": {
+            "strongBuy": 8,
+            "buy": 19,
+            "hold": 14,
+            "sell": 2,
+            "strongSell": 0
+        }
+    }
+}

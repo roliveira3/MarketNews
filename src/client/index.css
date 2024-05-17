@@ -1,0 +1,25 @@
+:root {
+  --spacing: 1rem;
+  --border-color: #a0a0a0;
+  --header-color: rgba(88,102,126,0.1);
+  --row-border-radius: 50px;
+  --row-border-color: #a0a0a0;
+  --row-hover-color: rgba(248, 250, 253);
+  --primary-text-color: #000000;
+  
+}
+/* Style for definition list */
+dl {
+  margin-top: 0;
+  margin-bottom: 20px;
+}
+dt,
+dd {
+  line-height: 1.42857143;
+}
+dt {
+  font-weight: 700;
+}
+dd {
+  margin-left: 0;
+}
