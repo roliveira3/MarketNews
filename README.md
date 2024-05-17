@@ -1,21 +1,6 @@
 # MarketNews
 
-
-## Project Description 
-Our goal is to build a webpage named 'MarketNews'. It is designed to be simple and easy to use, offering a clear overview of the most important stocks in the current market. We aim to provide an alternative to the more technical pages like [Finviz](https://finviz.com/), by offering a more user-friendly interface. Our focus is on presenting the most important data, leaving the intricate details to the experts. In addition to global market trends, we will integrate news that is specific to companies and stocks. To top it off, we will feature a clean and appealing user interface.
-
-### Project goals
-Our page consists of two main pages. The first is a landing page, where we plan to display stocks of the US market. These stocks will be presented in a list of card components, each representing a single stock. On these cards, there will be a quick overview of the stock, including its current price, name, movement in the last day, and a brief graph indicating its current trend.
-
-![](mdmedia/landing_page.png)
-
-We will start by featuring 10 stocks initially to showcase the concept and then plan on expanding the page from there. This expansion includes adding all the stocks of the market, as well as implementing search and filtering functions. Depending on how things progress, we also aim to categorize the stocks and add other minor functionalities.
-
-The second page will be accessible when a user clicks on one of the stocks. It will display a detailed view of the selected stock. This page will feature a candlestick chart showing the stock's movement. To complement this chart, we will include additional important metrics about the stock in a table format below, and possibly a pie chart displaying expert indicators. On the right side, there will also be a section for news related to the company that the stock belongs to. A visual representation of this layout can be seen in the picture below.
-
-![](mdmedia/stock_details.png)
-
- If there is time, we will make the candle chart more dynamic, use different timeframes and improve the looks of the UI.
+A examplary video of the Website can be found in the mdmedia folder
 
 ### Data Sources
 For the data required in our backend, we will utilize the API provided by [Finnhub](https://finnhub.io), which offers a comprehensive range of data, including news articles.
